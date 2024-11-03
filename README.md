@@ -7,7 +7,7 @@ Este repositório contém um projeto prático de criação de um podcast utiliza
 
 Ideal para quem quer aumentar o portfólio no GitHub e aprimorar o domínio em ferramentas de IA aplicadas ao mercado de trabalho.
 
-Projeto no notebooklm:
+Projeto no notebooklm(Resultado):
 
  https://notebooklm.google.com/notebook/a3fc2b06-f703-41ac-9b33-61b8a7bca3c2/audio
 
