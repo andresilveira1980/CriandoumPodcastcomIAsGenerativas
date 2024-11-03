@@ -11,3 +11,7 @@ Projeto no notebooklm(Resultado):
 
  https://notebooklm.google.com/notebook/a3fc2b06-f703-41ac-9b33-61b8a7bca3c2/audio
 
+ Resultado do projeto no Google Drive:
+
+https://drive.google.com/file/d/1ANIy2AEh5h9bQMlHSPc9elLdTV-DeLXo/view?usp=sharing
+
